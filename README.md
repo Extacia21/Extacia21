@@ -4,9 +4,17 @@
 
 <h1 align="center">
   <a href="https://github.com/Extacia21" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=F700FF&center=true&width=435&lines=Hi%2C+I'm+Extacia21!;Welcome+to+my+GitHub+profile!;Open+Source+%F0%9F%92%BB+Enthusiast;Let's+Build+Something+Awesome!"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=F700FF&center=true&width=435&lines=Hi%2C+I'm+Extacia+Fakero!;Welcome+to+my+GitHub+profile!;Open+Source+%F0%9F%92%BB+Enthusiast;Let's+Build+Something+Awesome!"/>
   </a>
 </h1>
+
+---
+
+## 👋 Introduction
+
+Hi, I'm **Extacia Fakero** — a passionate developer and open source enthusiast.  
+I love solving problems, learning new technologies, and building cool things that help people.  
+Whether I'm working solo or collaborating, I enjoy seeing ideas come to life through code!
 
 ---
 
