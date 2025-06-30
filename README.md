@@ -1,5 +1,3 @@
-<!-- Hi there, I'm glad you stopped by! 👋 -->
-
 <h1 align="center">Hi, I'm Extacia21 👋</h1>
 <p align="center">
   <em>Welcome to my GitHub profile!</em>
@@ -9,32 +7,45 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **new tech stacks and frameworks**
-- 💼 I work on **open source projects** and love collaborating
-- 🧑‍💻 Passionate about **coding, problem-solving, and continuous learning**
-- ⚡ Fun fact: _"I believe coffee and code make the perfect blend!"_
+- 🌱 I’m currently learning new tech stacks and frameworks
+- 💼 I work on open-source projects and love collaborating
+- 🧑‍💻 Passionate about coding, problem-solving, and continuous learning
+- ⚡ Fun fact: "I believe coffee and code make the perfect blend!"
 
 ---
 
 ## 🛠️ Languages & Tools
 
+<!-- Replace/add badges for each language you use -->
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <!-- Add more badges as needed -->
+</p>
+
+<!-- Or use GitHub Readme Stats for automatic language summary -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extacia21&layout=compact" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Activity & Stats
 
+<!-- GitHub Readme Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Extacia21&show_icons=true&theme=radical" alt="Extacia21's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Extacia21&theme=radical" alt="Extacia21's GitHub streak" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Extacia21&theme=github-compact" />
+</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Extacia21&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Extacia21&theme=radical" />
 </p>
 
 ---
