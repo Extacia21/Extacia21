@@ -1,7 +1,12 @@
-<h1 align="center">Hi, I'm Extacia21 👋</h1>
 <p align="center">
-  <em>Welcome to my GitHub profile!</em>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" height="60"/>
 </p>
+
+<h1 align="center">
+  <a href="https://github.com/Extacia21" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=F700FF&center=true&width=435&lines=Hi%2C+I'm+Extacia21!;Welcome+to+my+GitHub+profile!;Open+Source+%F0%9F%92%BB+Enthusiast;Let's+Build+Something+Awesome!"/>
+  </a>
+</h1>
 
 ---
 
@@ -16,36 +21,35 @@
 
 ## 🛠️ Languages & Tools
 
-<!-- Replace/add badges for each language you use -->
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <!-- Add more badges as needed -->
 </p>
 
-<!-- Or use GitHub Readme Stats for automatic language summary -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extacia21&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extacia21&layout=compact&theme=tokyonight&langs_count=8"/>
 </p>
 
 ---
 
 ## 📈 Activity & Stats
 
-<!-- GitHub Readme Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Extacia21&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Extacia21&theme=react-dark&area=true&hide_border=true"/>
 </p>
 
-<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Extacia21&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Extacia21&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Extacia21&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Extacia21&theme=radical&hide_border=true" />
 </p>
 
 ---
