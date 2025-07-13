@@ -1,96 +1,75 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="120" height="120"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" height="60"/>
 </p>
 
 <h1 align="center">
   <a href="https://github.com/Extacia21" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00F7FF&center=true&width=800&vCenter=true&lines=Greetings+%F0%9F%91%8B%2C+I'm+Extacia+Fakero;Quantum+Computing+%7C+AI+%7C+Blockchain+Developer;Building+the+Future+One+Commit+at+a+Time;Open+Source+%F0%9F%A4%96%7C+Tech+Evangelist+%F0%9F%92%BB;Let's+Code+the+Impossible+%F0%9F%9A%80"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=F700FF&center=true&width=435&lines=Hi%2C+I'm+Extacia+Fakero!;Welcome+to+my+GitHub+profile!;Open+Source+%F0%9F%92%BB+Enthusiast;Let's+Build+Something+Awesome!"/>
   </a>
 </h1>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Extacia21&label=Profile+Views&color=0e75b6&style=flat" alt="Extacia21" />
-  <img src="https://img.shields.io/github/followers/Extacia21?label=Followers&style=social" alt="GitHub Followers"/>
-</div>
+---
+
+## 👋 Introduction
+
+Hi, I'm **Extacia Fakero** a passionate developer and open source enthusiast.  
+I love solving problems, learning new technologies, and building cool things that help people.  
+Whether I'm working solo or collaborating, I enjoy seeing ideas come to life through code!
 
 ---
 
-## 🌌 Digital Cosmonaut Profile
+## 🚀 About Me
 
-```python
-class DigitalCosmonaut:
-    def __init__(self):
-        self.name = "Extacia Fakero"
-        self.role = "Full Stack Quantum Developer"
-        self.specialties = [
-            "Artificial Intelligence", 
-            "Blockchain Architecture",
-            "Neural Interface Design",
-            "Quantum Algorithms"
-        ]
-        self.current_mission = "Democratizing AI through Open Source"
-        self.mantra = "Code should inspire as much as it functions"
-        
-    def greet(self):
-        return f"Warp core engaged! Ready to explore the tech universe 🚀"
-🔭 Current Projects & Research
-🧠 NeuroLink AI Framework
-Building next-gen neural network architectures with quantum-inspired algorithms
+- 🌱 I’m currently learning new tech stacks and frameworks
+- 💼 I work on open-source projects and love collaborating
+- 🧑‍💻 Passionate about coding, problem-solving, and continuous learning
+- ⚡ Fun fact: "I believe coffee and code make the perfect blend!"
 
-⚛️ QubitFlow
-Quantum computing SDK for classical developers (Qiskit + Python integration)
+---
 
-🌐 Web3.0 Nexus
-Decentralized identity management using zero-knowledge proofs
+## 🛠️ Languages & Tools
 
-🛰️ OpenCosmos
-Open source satellite communication protocols
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
-🛠️ Tech Stack 3000
-🖥️ Core Programming
-https://img.shields.io/badge/QASM-000000?style=for-the-badge&logo=qiskit&logoColor=white
-https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white
-https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extacia21&layout=compact&theme=tokyonight&langs_count=8"/>
+</p>
 
-🌐 Web & Mobile
-https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
-https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+---
 
-🧠 AI/ML
-https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
-https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white
+## 📈 Activity & Stats
 
-⚡ Infrastructure
-https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
-https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white
-https://img.shields.io/badge/Warp_Speed-FF0000?style=for-the-badge&logo=cloudflare&logoColor=white
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Extacia21&theme=react-dark&area=true&hide_border=true"/>
+</p>
 
-📊 GitHub Warp Drive
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Extacia21&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&border_radius=20&bg_color=0d1117"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Extacia21&theme=nightowl&background=0d1117&border_radius=20&date_format=M%20j%5B%2C%20Y%5D"/> </div><div align="center"> <img width="80%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Extacia21&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Matrix&bg_color=0d1117"/> </div>
-🎮 Developer Console
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Extacia21&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Extacia21&theme=radical&hide_border=true" />
+</p>
 
-> extacia --status
-🟢 System: Operational
-🧠 Neural Load: 42% 
-💾 Memory: 128TB Quantum Storage
-⚡ Power: Solar-Powered Dev Station
+---
 
-> extacia --projects --active
-🛠️ 3 Active Projects | ✅ 12 Completed
-🔮 Next Release: NeuroLink v3.2 (ETA: Q3 2024)
+## 📫 Connect with Me
 
-> extacia --contact --connect
-📧 Email: extaciafakero@quantummail.io
-🌐 Web: https://extacia.dev (Coming Soon)
-🌟 Featured Collaborations
-https://github-readme-stats.vercel.app/api/pin/?username=Extacia21&repo=QuantumLeap&theme=nightowl
-https://github-readme-stats.vercel.app/api/pin/?username=Extacia21&repo=NeuralHorizon&theme=nightowl
+<p align="left">
+  <a href="mailto:extaciafakero@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/extacia-fakero-268675223"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=61571060746147"><img src="https://img.shields.io/badge/-Facebook-1DA1F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+</p>
 
-📡 Connect Through the Matrix
-<p align="center"> <a href="mailto:extaciafakero@gmail.com"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/extacia-fakero-268675223"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://matrix.to/#/@extacia:quantumdomain.io"> <img src="https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white"/> </a> <a href="https://keybase.io/extacia"> <img src="https://img.shields.io/badge/KeyBase-FF6F21?style=for-the-badge&logo=keybase&logoColor=white"/> </a> </p><p align="center"> <img src="https://media.giphy.com/media/LnUt9rQ5G5h8vQr6Qk/giphy.gif" width="200"/> </p>
-"The computer was born to solve problems that did not exist before." — Bill Gates
-"We're writing the future in quantum bits." — Extacia Fakero
+---
+
+> _"Open to collaboration, learning, and new opportunities! Let's connect and build something awesome together."_ 🚀
