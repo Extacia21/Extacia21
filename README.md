@@ -31,7 +31,20 @@
   </picture>
 </p>
 
-## ⚡ Technology Arsenal
+Hi, I'm **Extacia Fakero** — a passionate developer, open source contributor, and lifelong learner from Zimbabwe.
+
+I thrive on solving real-world problems and transforming ideas into powerful digital solutions. Whether it's backend, frontend, cloud, or automation, I love diving into new tech and pushing boundaries.  
+My journey is driven by curiosity, collaboration, and a commitment to building tools that make a difference.
+
+- 💡 **Specialties:** Backend & Frontend Development, Cloud, DevOps, Automation, AI  
+- 🧑‍💻 **Languages & Tools:** Python, Java, Dart, C, Go, JavaScript, TypeScript, React, Node.js, Git, Docker, Linux, PostgreSQL, MongoDB, Firebase, AWS  
+- 🌱 **Currently Exploring:** Edge ML, Web3, Advanced Cloud Automation  
+- 🤝 **Collaboration:** Always open to working on innovative projects and learning with others  
+- ⚡ **Fun Fact:** I believe coffee and code make the perfect blend!
+
+Let's connect, create, and build something awesome together!
+
+## ⚡ My Technology
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
