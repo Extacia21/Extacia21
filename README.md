@@ -17,11 +17,14 @@
   <a href="https://visitor-badge.laobi.icu/badge?page_id=Extacia21.Extacia21">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Extacia21.Extacia21" alt="Visitors"/>
   </a>
+  <!-- Rank badge powered by metrics.lecoq.io -->
+  <a href="https://metrics.lecoq.io/Extacia21">
+    <img src="https://metrics.lecoq.io/Extacia21?template=classic&base.header=header&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.only=rank&config.timezone=UTC" alt="GitHub Rank"/>
+  </a>
 </p>
 
 <hr>
 
-<!-- About Me Section -->
 ## 🧠 About Me
 
 <p align="center">
@@ -31,27 +34,8 @@
     <img align="right" width="400" alt="Skills Animation" src="./Skills_Animation_White.gif">
   </picture>
 </p>
-
-```typescript
-const extacia = {
-  location: "Zimbabwe",
-  role: "Developer & Open Source Enthusiast",
-  specialties: ["Backend Development", "Frontend Development", "Cloud", "AI"],
-  mission: "Building cool things that help people and redefine digital experiences",
-  expertise: {
-    frontend: ["React", "TypeScript", "JavaScript", "HTML/CSS", "Tailwind", "Dart"],
-    backend: ["Node.js", "Express.js", "Go", "Python", "Java", "C"],
-    ai: ["TensorFlow", "PyTorch", "OpenAI APIs", "Automation"],
-    cloud: ["AWS", "Firebase", "Docker"],
-    database: ["MongoDB", "PostgreSQL"]
-  },
-  currentlyLearning: ["Edge ML", "Web3", "Advanced Cloud & Automation"]
-};
-```
-
 <br>
 
-<!-- Technology Arsenal Section -->
 ## ⚡ Technology Arsenal
 
 <p align="center">
@@ -78,7 +62,6 @@ const extacia = {
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-<!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
 
 <table width="100%">
@@ -118,7 +101,6 @@ const extacia = {
   </tr>
 </table>
 
-<!-- Contribution Graph Section -->
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -132,8 +114,7 @@ const extacia = {
   </a>
 </p>
 
-<!-- Trophies Section -->
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies & Rank
 
 <p align="center">
   <a href="https://github.com/Extacia21">
@@ -143,21 +124,19 @@ const extacia = {
       <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Extacia21&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
   </a>
-</p>
-
-<p align="center">
+  <br/>
+  <!-- Rank badge powered by metrics.lecoq.io -->
   <a href="https://metrics.lecoq.io/Extacia21">
     <img src="https://metrics.lecoq.io/Extacia21?template=classic&base.header=header&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.only=rank&config.timezone=UTC" alt="GitHub Rank"/>
   </a>
 </p>
 
-<!-- Daily Thought Section -->
-<h2 align="center">🌟 Thought of the Day 🌟</h2>
+## 🌟 Thought of the Day
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=20&center=true&vCenter=true&width=800&height=60&duration=4000&color=c56a90&lines=The+best+way+to+predict+the+future+is+to+invent+it.;Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.;First,+solve+the+problem.+Then,+write+the+code." alt="Daily Quote"/>
 </p>
 
-<!-- Connect Section -->
 ## 🤝 Let's Connect
 
 <p align="center">
