@@ -17,10 +17,6 @@
   <a href="https://visitor-badge.laobi.icu/badge?page_id=Extacia21.Extacia21">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Extacia21.Extacia21" alt="Visitors"/>
   </a>
-  <!-- Rank badge powered by metrics.lecoq.io -->
-  <a href="https://metrics.lecoq.io/Extacia21">
-    <img src="https://metrics.lecoq.io/Extacia21?template=classic&base.header=header&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.only=rank&config.timezone=UTC" alt="GitHub Rank"/>
-  </a>
 </p>
 
 <hr>
@@ -34,25 +30,6 @@
     <img align="right" width="400" alt="Skills Animation" src="./Skills_Animation_White.gif">
   </picture>
 </p>
-
-```typescript
-const extacia = {
-  location: "Zimbabwe",
-  role: "Developer & Open Source Enthusiast",
-  specialties: ["Backend Development", "Frontend Development", "Cloud", "AI"],
-  mission: "Building cool things that help people and redefine digital experiences",
-  expertise: {
-    frontend: ["React", "TypeScript", "JavaScript", "HTML/CSS", "Tailwind", "Dart"],
-    backend: ["Node.js", "Express.js", "Go", "Python", "Java", "C"],
-    ai: ["TensorFlow", "PyTorch", "OpenAI APIs", "Automation"],
-    cloud: ["AWS", "Firebase", "Docker"],
-    database: ["MongoDB", "PostgreSQL"]
-  },
-  currentlyLearning: ["Edge ML", "Web3", "Advanced Cloud & Automation"]
-};
-```
-
-<br>
 
 ## ⚡ Technology Arsenal
 
@@ -125,13 +102,6 @@ const extacia = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Extacia21&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" width="98%">
 </p>
 
-<!-- Snake Animation -->
-<p align="center">
-  <a href="https://github.com/Extacia21">
-    <img alt="Snake eating commits" src="https://raw.githubusercontent.com/Extacia21/Extacia21/output/github-contribution-grid-snake-dark.svg" />
-  </a>
-</p>
-
 ## 🏆 GitHub Trophies & Rank
 
 <p align="center">
@@ -143,9 +113,6 @@ const extacia = {
     </picture>
   </a>
   <br/>
-  <a href="https://metrics.lecoq.io/Extacia21">
-    <img src="https://metrics.lecoq.io/Extacia21?template=classic&base.header=header&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.only=rank&config.timezone=UTC" alt="GitHub Rank"/>
-  </a>
 </p>
 
 ## 🌟 Thought of the Day
