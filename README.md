@@ -55,14 +55,6 @@ const extacia = {
 ## ⚡ Technology Arsenal
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607e1-1cc6-41f1-926f-892ae880e7a5" width="100">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -85,36 +77,6 @@ const extacia = {
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
-
-<!-- Featured Projects Section -->
-## 🔥 Featured Projects
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4a9f-98ed-6d0293897b3a.png" width="100" /><br>
-      <strong>🗺️ AR Navigation Platform</strong><br>
-      XR-powered navigation for campuses using ARCore + Geospatial API
-    </td>
-    <td align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" /><br>
-      <strong>🔋 IoT Energy Management</strong><br>
-      Smart energy monitoring platform for optimizing consumption
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" /><br>
-      <strong>📊 Web Analytics for Universities</strong><br>
-      Browser extension for e-learning engagement tracking
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e20-9a41-4bad-b7ea-028a5f0c1646.gif" width="100" /><br>
-      <strong>🌍 PocketGenie - Offline AI</strong><br>
-      On-device LLMs for instant knowledge access
-    </td>
-  </tr>
-</table>
 
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
@@ -144,24 +106,6 @@ const extacia = {
       <p align="center">
         <a href="https://github.com/Extacia21">
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Extacia21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="languages graph" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Latest Project</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Extacia21/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Extacia21&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Top Contributions</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Extacia21">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Extacia21&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -202,8 +146,8 @@ const extacia = {
 </p>
 
 <p align="center">
-  <a href="https://github.com/daytonaio/daytona">
-    <img src="https://api.vaunt.dev/v1/github/entities/Extacia21/achievements?format=svg&limit=6" width="400" />
+  <a href="https://metrics.lecoq.io/Extacia21">
+    <img src="https://metrics.lecoq.io/Extacia21?template=classic&base.header=header&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.only=rank&config.timezone=UTC" alt="GitHub Rank"/>
   </a>
 </p>
 
