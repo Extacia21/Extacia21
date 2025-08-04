@@ -23,7 +23,7 @@
 
 ## 🧠 About Me
 
-Hi, I'm **Extacia Fakero** — a passionate developer, open source contributor, and lifelong learner from Zimbabwe.
+Hi, I'm **Extacia Fakero** a passionate developer, open source contributor, and lifelong learner from Zimbabwe.
 
 I thrive on solving real-world problems and transforming ideas into powerful digital solutions. Whether it's backend, frontend, cloud, or automation, I love diving into new tech and pushing boundaries.  
 My journey is driven by curiosity, collaboration, and a commitment to building tools that make a difference.
