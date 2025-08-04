@@ -1,11 +1,13 @@
-<!-- Header Section with Badges -->
+<!-- Header Section with Badges and Tagline -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" height="60"/>
-  
   <h3>
     <code>🚀 Open Source Enthusiast | Code Explorer | Innovation Builder 🚀</code>
   </h3>
-  
+  <p><strong>Building tools that make a difference. Always learning, always sharing.</strong></p>
+  <a href="https://extacia21.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"/>
+  </a>
   <!-- Badges -->
   <a href="https://user-badge.committers.top/zimbabwe_private/Extacia21" target="_blank">
     <img src="https://img.shields.io/badge/🏆_%23164_Ranked_in_Zimbabwe-red?style=for-the-badge&labelColor=770677" alt="Top Committer Zimbabwe Badge"/>
@@ -23,7 +25,7 @@
 
 ## 🧠 About Me
 
-Hi, I'm **Extacia Fakero** a passionate developer, open source contributor, and lifelong learner from Zimbabwe.
+Hi, I'm **Extacia Fakero** — a passionate developer, open source contributor, and lifelong learner from Zimbabwe.
 
 I thrive on solving real-world problems and transforming ideas into powerful digital solutions. Whether it's backend, frontend, cloud, or automation, I love diving into new tech and pushing boundaries.  
 My journey is driven by curiosity, collaboration, and a commitment to building tools that make a difference.
@@ -34,10 +36,15 @@ My journey is driven by curiosity, collaboration, and a commitment to building t
 - 🤝 **Collaboration:** Always open to working on innovative projects and learning with others  
 - ⚡ **Fun Fact:** I believe coffee and code make the perfect blend!
 
+**Featured Projects:**
+- [My Portfolio](https://extacia21.github.io/)
+- [Open Source Contributions](https://github.com/Extacia21?tab=repositories&q=&type=public&language=&sort=stargazers)
+
 Let's connect, create, and build something awesome together!
 
 ## ⚡ My Technology
 
+**Programming Languages**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -46,6 +53,10 @@ Let's connect, create, and build something awesome together!
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+**Frameworks & Tools**
+<p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -62,6 +73,14 @@ Let's connect, create, and build something awesome together!
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
+## 📜 Certifications & Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Certified-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <!-- Add more badges for achievements here if available -->
+</p>
+
 ## 📊 GitHub Stats
 
 <table width="100%">
@@ -70,7 +89,7 @@ Let's connect, create, and build something awesome together!
       <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/Extacia21">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Extacia21&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&show=prs_merged,prs_merged_percentage,prs,contribs&hide=issues" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Extacia21&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff"/>
         </a>
       </p>
     </td>
@@ -78,7 +97,7 @@ Let's connect, create, and build something awesome together!
       <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/Extacia21">
-          <img align="center" src="https://streak-stats.demolab.com?user=Extacia21&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=Extacia21&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90"/>
         </a>
       </p>
     </td>
@@ -88,14 +107,14 @@ Let's connect, create, and build something awesome together!
       <h3 align="center"><strong>Most Used Languages</strong></h3>
       <p align="center">
         <a href="https://github.com/Extacia21">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Extacia21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="languages graph" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Extacia21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nightowl&bg_color=0,000000,441350"/>
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>&nbsp;</strong></h3>
+      <h3 align="center"><strong>Contribution Focus</strong></h3>
       <p align="center">
-        &nbsp;
+        <em>Focused on backend development, cloud automation, and open-source collaboration.</em>
       </p>
     </td>
   </tr>
@@ -106,6 +125,7 @@ Let's connect, create, and build something awesome together!
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Extacia21&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" width="98%">
 </p>
+<p align="center"><em>Most contributions are in backend automation, cloud tooling, and collaborative open-source projects.</em></p>
 
 ## 🏆 GitHub Trophies & Rank
 
@@ -118,12 +138,17 @@ Let's connect, create, and build something awesome together!
     </picture>
   </a>
   <br/>
+  <p>
+    <em>These trophies highlight contributions, collaboration, and impact in the GitHub community.</em>
+  </p>
 </p>
 
 ## 🌟 Thought of the Day
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=20&center=true&vCenter=true&width=800&height=60&duration=4000&color=c56a90&lines=The+best+way+to+predict+the+future+is+to+invent+it.;Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.;First,+solve+the+problem.+Then,+write+the+code." alt="Daily Quote"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=20&center=true&vCenter=true&width=800&height=60&duration=4000&color=c56a90&lines=The+best+way+to+predict+the+future+is+to+invent+it.;Keep+learning.+Keep+building.+Keep+sharing."/>
+  <br>
+  <em>“Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.”</em>
 </p>
 
 ## 🤝 Let's Connect
@@ -141,6 +166,17 @@ Let's connect, create, and build something awesome together!
   <a href="https://ko-fi.com/X8X01AFOO8">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
   </a>
+  <a href="https://github.com/Extacia21?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <!-- Add Twitter, Medium, or other platform links here if available -->
+</p>
+<p align="center">
+  <a href="https://github.com/Extacia21/Extacia21">
+    <img src="https://img.shields.io/github/stars/Extacia21/Extacia21?style=social" alt="Star this repo"/>
+  </a>
+  <br>
+  <strong>⭐ If you like my work, feel free to star, fork, or collaborate! ⭐</strong>
 </p>
 
 <!-- Footer Section -->
@@ -149,5 +185,5 @@ Let's connect, create, and build something awesome together!
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=30&center=true&vCenter=true&width=800&height=100&duration=4000&color=38BDF8&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Connect+with+me+today!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=30&center=true&vCenter=true&width=800&height=100&duration=4000&color=38BDF8&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!"/>
 </p>
