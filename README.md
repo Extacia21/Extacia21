@@ -15,8 +15,11 @@
   <a href="https://github.com/Extacia21?tab=repositories">
     <img src="https://img.shields.io/badge/Public%20Repos-Count-informational?style=flat-square&logo=github" alt="Repos"/>
   </a>
-  <a href="https://visitor-badge.glitch.me/badge?page_id=Extacia21.Extacia21">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=Extacia21.Extacia21" alt="Visitors"/>
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=Extacia21.Extacia21">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Extacia21.Extacia21" alt="Visitors"/>
+  </a>
+  <a href="https://metrics.lecoq.io/Extacia21">
+    <img src="https://metrics.lecoq.io/Extacia21?template=classic&base.header=header&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.only=rank&config.timezone=UTC" alt="GitHub Rank"/>
   </a>
 </p>
 
