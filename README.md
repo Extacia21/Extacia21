@@ -8,7 +8,7 @@
   
   <!-- Badges -->
   <a href="https://user-badge.committers.top/zimbabwe_private/Extacia21" target="_blank">
-    <img src="https://img.shields.io/badge/🏆_%232_Top_Committer_In_Zimbabwe-red?style=for-the-badge&labelColor=770677" alt="Top Committer Zimbabwe Badge"/>
+    <img src="https://img.shields.io/badge/🏆_%23164_Ranked_in_Zimbabwe-red?style=for-the-badge&labelColor=770677" alt="Top Committer Zimbabwe Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Extacia21&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Extacia21" />
   <a href="https://github.com/Extacia21?tab=followers">
@@ -34,6 +34,24 @@
     <img align="right" width="400" alt="Skills Animation" src="./Skills_Animation_White.gif">
   </picture>
 </p>
+
+```typescript
+const extacia = {
+  location: "Zimbabwe",
+  role: "Developer & Open Source Enthusiast",
+  specialties: ["Backend Development", "Frontend Development", "Cloud", "AI"],
+  mission: "Building cool things that help people and redefine digital experiences",
+  expertise: {
+    frontend: ["React", "TypeScript", "JavaScript", "HTML/CSS", "Tailwind", "Dart"],
+    backend: ["Node.js", "Express.js", "Go", "Python", "Java", "C"],
+    ai: ["TensorFlow", "PyTorch", "OpenAI APIs", "Automation"],
+    cloud: ["AWS", "Firebase", "Docker"],
+    database: ["MongoDB", "PostgreSQL"]
+  },
+  currentlyLearning: ["Edge ML", "Web3", "Advanced Cloud & Automation"]
+};
+```
+
 <br>
 
 ## ⚡ Technology Arsenal
@@ -125,7 +143,6 @@
     </picture>
   </a>
   <br/>
-  <!-- Rank badge powered by metrics.lecoq.io -->
   <a href="https://metrics.lecoq.io/Extacia21">
     <img src="https://metrics.lecoq.io/Extacia21?template=classic&base.header=header&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.only=rank&config.timezone=UTC" alt="GitHub Rank"/>
   </a>
